@@ -1,0 +1,11 @@
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\bin\MCD\Debug\netcoreapp2.1\GradeBook.deps.json
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\bin\MCD\Debug\netcoreapp2.1\GradeBook.runtimeconfig.json
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\bin\MCD\Debug\netcoreapp2.1\GradeBook.runtimeconfig.dev.json
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\bin\MCD\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\bin\MCD\Debug\netcoreapp2.1\GradeBook.pdb
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\obj\MCD\Debug\netcoreapp2.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\obj\MCD\Debug\netcoreapp2.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\obj\MCD\Debug\netcoreapp2.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\obj\MCD\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\obj\MCD\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\JAIDEB MANDAL\Desktop\gradebook\src\GradeBook\obj\MCD\Debug\netcoreapp2.1\GradeBook.pdb
